@@ -1,0 +1,10 @@
+n1 = input("Enter the number 1: ")
+n2 = input("Enter the number 2: ")
+n3 = input("Enter the number 3: ")
+n4 = input("Enter the number 4: ")
+n5 = input("Enter the number 5: ")
+n6 = input("Enter the number 6: ")
+n7 = input("Enter the number 7: ")
+n8 = input("Enter the number 8: ")
+nDict = {n1, n2, n3, n4, n5, n6, n7, n8}
+print(nDict)
